@@ -1,0 +1,14 @@
+{
+    "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+    "name": "Franklin Steven's webapp thingy",
+    "short_name": "WEBAPP AAAAA",
+    "start_url": "index.html",
+    "display": "standalone",
+    "background_color": "#1e1e1e",
+    "description": "Frank's stuff yay woooooooooooooo",
+    "icons": [{
+      "src": "icon.png",
+      "sizes": "48x48",
+      "type": "image/png"
+    }]
+}
